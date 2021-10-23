@@ -1,5 +1,8 @@
+section{
+    font-size: 20px;
+}
 @media (max-width: 100px){
-    #section1{
+    section{
         font-size: 10px;
     }
 }
